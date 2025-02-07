@@ -8,9 +8,9 @@ status](https://www.r-pkg.org/badges/version/fabricatr)](https://cran.r-project.
 [![CRAN RStudio mirror
 downloads](https://cranlogs.r-pkg.org/badges/grand-total/fabricatr?color=green)](https://r-pkg.org/pkg/fabricatr)
 [![Build
-status](https://github.com/DeclareDesign/fabricatr/workflows/R-CMD-check/badge.svg)](https://github.com/DeclareDesign/fabricatr/actions)
-[![Code
-coverage](https://codecov.io/gh/DeclareDesign/fabricatr/branch/master/graph/badge.svg?token=x9MpkuKobc)](https://codecov.io/gh/DeclareDesign/fabricatr)
+status](https://github.com/DeclareDesign/fabricatr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/DeclareDesign/fabricatr/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/DeclareDesign/fabricatr/graph/badge.svg)](https://app.codecov.io/gh/DeclareDesign/fabricatr)
 [![Replications](https://softwarecite.com/badge/fabricatr)](https://softwarecite.com/package/fabricatr)
 
 Making decisions about research design and analysis strategies is often
